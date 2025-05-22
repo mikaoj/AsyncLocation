@@ -1,7 +1,7 @@
 # AsyncLocation
 
 [![Swift](https://img.shields.io/badge/Swift-6.1%2B-orange.svg)](https://swift.org)
-[![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20watchOS-lightgrey.svg)](#platform-support)
+[![Platforms](https://img.shields.io/badge/Platforms-iOS%20%7C%20watchOS%20macOS-lightgrey.svg)](#platform-support)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **AsyncLocation** is a lightweight Swift package that provides an `async/await`-based wrapper around `CLLocationManager`.
@@ -68,23 +68,3 @@ if let location = locations.first {
 | iOS      | ✅ iOS 14+     |
 | watchOS  | ✅ watchOS 7+  |
 | macOS    | ✅ macOS 11+   |
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## ✍️ Author
-
-**Joakim Gyllström**  
-📧 [joakim@backslashed.se](mailto:joakim@backslashed.se)  
-
----
-
-## 💡 Contributions
-
-Contributions are welcome! Feel free to open an issue or submit a pull request. ✨
-
